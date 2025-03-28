@@ -16,8 +16,8 @@
     height: 85vh;
 }
 
-.imagem-circular{
-    width: 150px;
+.imagem img{
+    width: 50px;
     height: 15px;
     border-radius: 50%;
 }
